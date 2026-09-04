@@ -1,0 +1,9 @@
+torch>=2.0.0
+torchvision
+torchaudio
+transformers>=5.16.0
+datasets>=5.0.0
+tqdm
+matplotlib
+pandas
+accelerate
